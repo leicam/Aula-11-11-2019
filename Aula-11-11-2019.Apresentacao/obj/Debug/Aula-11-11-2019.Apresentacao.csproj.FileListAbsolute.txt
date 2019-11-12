@@ -1,0 +1,15 @@
+C:\Users\juliano.maciel\source\repos\Aula-11-11-2019\Aula-11-11-2019.Apresentacao\bin\Debug\Aula-11-11-2019.Apresentacao.exe.config
+C:\Users\juliano.maciel\source\repos\Aula-11-11-2019\Aula-11-11-2019.Apresentacao\bin\Debug\Aula-11-11-2019.Apresentacao.exe
+C:\Users\juliano.maciel\source\repos\Aula-11-11-2019\Aula-11-11-2019.Apresentacao\bin\Debug\Aula-11-11-2019.Apresentacao.pdb
+C:\Users\juliano.maciel\source\repos\Aula-11-11-2019\Aula-11-11-2019.Apresentacao\bin\Debug\Aula-11-11-2019.Aplicacao.dll
+C:\Users\juliano.maciel\source\repos\Aula-11-11-2019\Aula-11-11-2019.Apresentacao\bin\Debug\Aula-11-11-2019.DTO.dll
+C:\Users\juliano.maciel\source\repos\Aula-11-11-2019\Aula-11-11-2019.Apresentacao\bin\Debug\Aula-11-11-2019.Infraestrutura.Repositorio.dll
+C:\Users\juliano.maciel\source\repos\Aula-11-11-2019\Aula-11-11-2019.Apresentacao\bin\Debug\Aula-11-11-2019.Dominio.dll
+C:\Users\juliano.maciel\source\repos\Aula-11-11-2019\Aula-11-11-2019.Apresentacao\bin\Debug\Aula-11-11-2019.Aplicacao.pdb
+C:\Users\juliano.maciel\source\repos\Aula-11-11-2019\Aula-11-11-2019.Apresentacao\bin\Debug\Aula-11-11-2019.DTO.pdb
+C:\Users\juliano.maciel\source\repos\Aula-11-11-2019\Aula-11-11-2019.Apresentacao\bin\Debug\Aula-11-11-2019.Infraestrutura.Repositorio.pdb
+C:\Users\juliano.maciel\source\repos\Aula-11-11-2019\Aula-11-11-2019.Apresentacao\bin\Debug\Aula-11-11-2019.Dominio.pdb
+C:\Users\juliano.maciel\source\repos\Aula-11-11-2019\Aula-11-11-2019.Apresentacao\obj\Debug\Aula-11-11-2019.Apresentacao.csprojAssemblyReference.cache
+C:\Users\juliano.maciel\source\repos\Aula-11-11-2019\Aula-11-11-2019.Apresentacao\obj\Debug\Aula-11-11-2019.Apresentacao.csproj.CopyComplete
+C:\Users\juliano.maciel\source\repos\Aula-11-11-2019\Aula-11-11-2019.Apresentacao\obj\Debug\Aula-11-11-2019.Apresentacao.exe
+C:\Users\juliano.maciel\source\repos\Aula-11-11-2019\Aula-11-11-2019.Apresentacao\obj\Debug\Aula-11-11-2019.Apresentacao.pdb

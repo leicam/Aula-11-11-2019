@@ -1,0 +1,5 @@
+C:\Users\juliano.maciel\source\repos\Aula-11-11-2019\Aula-11-11-2019.DTO\bin\Debug\Aula-11-11-2019.DTO.dll
+C:\Users\juliano.maciel\source\repos\Aula-11-11-2019\Aula-11-11-2019.DTO\bin\Debug\Aula-11-11-2019.DTO.pdb
+C:\Users\juliano.maciel\source\repos\Aula-11-11-2019\Aula-11-11-2019.DTO\obj\Debug\Aula-11-11-2019.DTO.csprojAssemblyReference.cache
+C:\Users\juliano.maciel\source\repos\Aula-11-11-2019\Aula-11-11-2019.DTO\obj\Debug\Aula-11-11-2019.DTO.dll
+C:\Users\juliano.maciel\source\repos\Aula-11-11-2019\Aula-11-11-2019.DTO\obj\Debug\Aula-11-11-2019.DTO.pdb

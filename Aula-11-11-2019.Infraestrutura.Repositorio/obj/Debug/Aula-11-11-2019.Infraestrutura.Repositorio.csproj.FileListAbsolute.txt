@@ -1,0 +1,8 @@
+C:\Users\juliano.maciel\source\repos\Aula-11-11-2019\Aula-11-11-2019.Infraestrutura.Repositorio\bin\Debug\Aula-11-11-2019.Infraestrutura.Repositorio.dll
+C:\Users\juliano.maciel\source\repos\Aula-11-11-2019\Aula-11-11-2019.Infraestrutura.Repositorio\bin\Debug\Aula-11-11-2019.Infraestrutura.Repositorio.pdb
+C:\Users\juliano.maciel\source\repos\Aula-11-11-2019\Aula-11-11-2019.Infraestrutura.Repositorio\bin\Debug\Aula-11-11-2019.Dominio.dll
+C:\Users\juliano.maciel\source\repos\Aula-11-11-2019\Aula-11-11-2019.Infraestrutura.Repositorio\bin\Debug\Aula-11-11-2019.Dominio.pdb
+C:\Users\juliano.maciel\source\repos\Aula-11-11-2019\Aula-11-11-2019.Infraestrutura.Repositorio\obj\Debug\Aula-11-11-2019.Infraestrutura.Repositorio.csprojAssemblyReference.cache
+C:\Users\juliano.maciel\source\repos\Aula-11-11-2019\Aula-11-11-2019.Infraestrutura.Repositorio\obj\Debug\Aula-11-11-2019.Infraestrutura.Repositorio.csproj.CopyComplete
+C:\Users\juliano.maciel\source\repos\Aula-11-11-2019\Aula-11-11-2019.Infraestrutura.Repositorio\obj\Debug\Aula-11-11-2019.Infraestrutura.Repositorio.dll
+C:\Users\juliano.maciel\source\repos\Aula-11-11-2019\Aula-11-11-2019.Infraestrutura.Repositorio\obj\Debug\Aula-11-11-2019.Infraestrutura.Repositorio.pdb

@@ -1,0 +1,5 @@
+C:\Users\juliano.maciel\source\repos\Aula-11-11-2019\Aula-11-11-2019.Dominio\bin\Debug\Aula-11-11-2019.Dominio.dll
+C:\Users\juliano.maciel\source\repos\Aula-11-11-2019\Aula-11-11-2019.Dominio\bin\Debug\Aula-11-11-2019.Dominio.pdb
+C:\Users\juliano.maciel\source\repos\Aula-11-11-2019\Aula-11-11-2019.Dominio\obj\Debug\Aula-11-11-2019.Dominio.csprojAssemblyReference.cache
+C:\Users\juliano.maciel\source\repos\Aula-11-11-2019\Aula-11-11-2019.Dominio\obj\Debug\Aula-11-11-2019.Dominio.dll
+C:\Users\juliano.maciel\source\repos\Aula-11-11-2019\Aula-11-11-2019.Dominio\obj\Debug\Aula-11-11-2019.Dominio.pdb
