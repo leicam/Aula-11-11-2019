@@ -24,7 +24,7 @@ namespace Aula_11_11_2019.Testes.Dominio.Cliente
             {
                 var email = new Email("juliano.maciel@gmail.com");
             }
-            catch(Exception ex)
+            catch(ArgumentException ex)
             {
                 Assert.Fail($"Classe email com excessão {ex.Message}");
             }
